@@ -52,7 +52,7 @@ h3{
   padding-top: 100px;
 }
 .middle-container{
-  padding: 100px 0;
+  padding: 0 0 100px;
   background-color: #E4f9f5;
 }
 .bottom-container{
@@ -86,12 +86,12 @@ h3{
 
 }
 .api-img{
-  padding-top: 50px;
-  padding-right: 20px;
-  position: absolute;
-  right: 170px;
-  top: 310px;
-  width:15%;
+   padding-top: 50px;
+   position: relative;
+   left: 300px;
+   padding-left: 20px;
+   width: 15%;
+   bottom: 30px;
 }
 
 .contactme-desc{
